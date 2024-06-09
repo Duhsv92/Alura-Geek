@@ -56,13 +56,13 @@ Funcionalidades
 
 O projeto está disponível na Vercel. Você pode acessá-lo através do seguinte link: 
 
-[AluraGeek na Vercel.](https://desafio-t6-one-alura-geek.vercel.app/)
+[AluraGeek na Vercel.](https://alura-geek-kappa-orpin.vercel.app/)
 
 ### GitHub Pages
 
 Alternativamente, você pode acessar o projeto através do GitHub Pages:
 
-[AluraGeek no GitHub Pages.](https://charlesbrcosta.github.io/Desafio-T6-One-AluraGeek/)
+[AluraGeek no GitHub Pages.](https://github.com/Duhsv92/Alura-Geek)
 
 ## :memo: Observação
 
